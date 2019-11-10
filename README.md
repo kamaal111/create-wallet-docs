@@ -133,3 +133,5 @@ openssl smime -binary -sign -certfile WWDR.pem -signer passcertificate.pem -inke
 ```bash
 zip -r <pass name>.pkpass manifest.json pass.json signature logo.png logo@2x.png icon.png icon@2x.png strip.png strip@2x.png
 ```
+
+Enjoy 🍻
